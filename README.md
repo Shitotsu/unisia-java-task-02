@@ -92,6 +92,84 @@ java -cp out payroll.Main
 
 Program akan menampilkan beberapa contoh slip gaji (dummy data) yang sudah disiapkan di `Main.java`.
 
+Contoh Output:
+
+```md
+$ java -cp out payroll.Main
+=== SLIP GAJI ===
+ID        : E001
+Nama      : Andi
+Jabatan   : SPV
+Masuk     : 8
+Keluar    : 18
+-----------------
+Gaji Pokok         : Rp10.000.000,00
+Potongan Telat     : Rp100.000,00
+Potongan Pulang Cep: Rp0,00
+Gaji Pokok (net)   : Rp9.900.000,00
+Transport          : Rp1.000.000,00
+Tunjangan Istri    : Rp300.000,00
+Tunjangan Anak     : Rp200.000,00
+Lembur (2 jam)     : Rp20.000,00
+-----------------
+TOTAL              : Rp11.420.000,00
+
+=== SLIP GAJI ===
+ID        : E002
+Nama      : Budi
+Jabatan   : TKN
+Masuk     : 7
+Keluar    : 16
+-----------------
+Gaji Pokok         : Rp3.000.000,00
+Potongan Telat     : Rp0,00
+Potongan Pulang Cep: Rp0,00
+Gaji Pokok (net)   : Rp3.000.000,00
+Transport          : Rp500.000,00
+Tunjangan Istri    : Rp0,00
+Tunjangan Anak     : Rp0,00
+Lembur (0 jam)     : Rp0,00
+-----------------
+TOTAL              : Rp3.500.000,00
+
+=== SLIP GAJI ===
+ID        : E003
+Nama      : Citra
+Jabatan   : KRY
+Masuk     : 9
+Keluar    : 15
+-----------------
+Gaji Pokok         : Rp1.500.000,00
+Potongan Telat     : Rp200.000,00
+Potongan Pulang Cep: Rp100.000,00
+Gaji Pokok (net)   : Rp1.200.000,00
+Transport          : Rp250.000,00
+Tunjangan Istri    : Rp200.000,00
+Tunjangan Anak     : Rp60.000,00
+Lembur (0 jam)     : Rp0,00
+-----------------
+TOTAL              : Rp1.710.000,00
+
+=== SLIP GAJI ===
+ID        : E004
+Nama      : Dewi
+Jabatan   : HRD
+Masuk     : 7
+Keluar    : 17
+-----------------
+Gaji Pokok         : Rp5.000.000,00
+Potongan Telat     : Rp0,00
+Potongan Pulang Cep: Rp0,00
+Gaji Pokok (net)   : Rp5.000.000,00
+Transport          : Rp750.000.000,00
+Tunjangan Istri    : Rp250.000,00
+Tunjangan Anak     : Rp190.000,00
+Lembur (1 jam)     : Rp7.500,00
+-----------------
+TOTAL              : Rp755.447.500,00
+
+```
+
 ---
 
 ## 5) Cara Menggunakan Program (Mengubah Input)
