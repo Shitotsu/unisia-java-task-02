@@ -1,4 +1,3 @@
-```md
 # Payroll OOP Java (Presensi + Lembur)
 
 Program ini menghitung **total gaji pegawai** berdasarkan:
