@@ -16,19 +16,17 @@ Program ini menghitung **total gaji pegawai** berdasarkan:
 Pastikan file-file berikut ada di folder `src/payroll/`:
 
 ```
-
-src/
-payroll/
-Attendance.java
-Employee.java
-SalaryRule.java
-Supervisor.java
-HRD.java
-Technician.java
-Staff.java
-PayrollService.java
-Main.java
-
+src
+└── payroll
+    ├── Attendance.java
+    ├── Employee.java
+    ├── HRD.java
+    ├── Main.java
+    ├── PayrollService.java
+    ├── SalaryRule.java
+    ├── Staff.java
+    ├── Supervisor.java
+    └── Technician.java
 ```
 
 Semua class menggunakan deklarasi:
