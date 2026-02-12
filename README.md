@@ -1,3 +1,11 @@
+```md
+Mata Kuliah	    : Pemrograman Berorientasi Objek
+Kelas	        : IF504
+Prodi	        : Informatika PJJ
+Nama Mahasiswa	: MUHAMAD LAMBDA GIBRAN RAMADHAN
+Dosen	        : Alun Sujjada, S.Kom., M.T
+```
+
 # Payroll OOP Java (Presensi + Lembur)
 
 Program ini menghitung **total gaji pegawai** berdasarkan:
